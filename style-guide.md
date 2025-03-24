@@ -51,7 +51,7 @@ To ensure legibility, the logo should never appear smaller than 24px in height f
 
 | Color | Hex Code | RGB | Usage |
 |-------|----------|-----|-------|
-| Carbon Black | #000000 | rgb(0, 0, 0) | Logo, primary text, headings |
+| Carbon Black | #212121 | rgb(0, 0, 0) | Logo, primary text, headings |
 | Carbon Green | #397C21 | rgb(57, 124, 33) | Primary brand color, buttons, accents |
 | Fresh Green | #24D164 | rgb(36, 209, 100) | Charts, highlights, secondary accents |
 | Light Mint | #E8F7E9 | rgb(232, 247, 233) | Backgrounds, subtle accents |
@@ -144,18 +144,6 @@ Icons should be simple, consistent, and meaningful. Use outlined icons with a 2p
 
 Icon style should be geometric and minimal, avoiding unnecessary details while maintaining clarity of purpose.
 
-### Photography
-Photographic imagery should reflect the following qualities:
-- Natural, authentic scenes of people taking climate action
-- Vibrant, clean environments
-- Modern sustainable technologies and practices
-- Diverse representation of users and communities
-
-Avoid images that:
-- Appear overly staged or corporate
-- Focus on environmental degradation without context for improvement
-- Use clichéd sustainability imagery (e.g., hands holding plants)
-
 ### Illustrations
 When custom illustrations are used, they should be:
 - Simple and geometric in style
@@ -178,23 +166,8 @@ When custom illustrations are used, they should be:
 - Balance scientific accuracy with accessibility
 - Lead with benefits and practical applications
 
-### Messaging Examples
-
-| Message Type | Example |
-|--------------|---------|
-| Headlines | "Measure, reduce, and offset your carbon footprint." |
-| Call to Action | "Take the CO₂ quiz" |
-| Feature Description | "Track your emissions over time to measure progress and identify opportunities for further reduction." |
-| Data Context | "12.4 tCO₂e represents your annual carbon emissions across all measured activities." |
 
 ## Applications
-
-### Website
-The Carbon Upscale website should maintain consistent use of the brand elements outlined in this guide:
-- White space should be used generously to create clarity
-- Content should be organized in a clear hierarchy
-- Interactive elements should provide clear feedback
-- Data visualizations should follow accessibility guidelines
 
 ### Documentation
 Documentation materials should:
@@ -208,14 +181,7 @@ Social media content should:
 - Use approved brand colors and typography when creating custom graphics
 - Maintain the established voice and tone
 - Include the logo where appropriate, following clear space guidelines
-- Use photography and illustrations that align with the visual guidelines
 
-### Email Communications
-Email templates should:
-- Use the approved typefaces (or appropriate system alternatives)
-- Follow the color palette for buttons, links, and accents
-- Maintain a clean, focused layout
-- Include proper logo placement in the header
 
 ---
 
